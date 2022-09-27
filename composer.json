@@ -22,6 +22,9 @@
         ]
     },
     "config": {
+        "platform": {
+            "php": "8.0.22"
+        },
         "sort-packages": true
     }
 }
